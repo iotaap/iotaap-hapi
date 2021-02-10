@@ -12,7 +12,7 @@
 
 #warning "IoTaaP HAPI library is Deprecated - Use IoTaaP OS"
 
-#define HAPI_VERSION "1.1.7"
+#define HAPI_VERSION "1.1.8"
 #define DEVICE_STATUS_PERIOD 500
 #define DEVICE_OTA_CHECK_PERIOD 30000
 

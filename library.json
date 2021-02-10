@@ -17,13 +17,13 @@
       "maintainer": true
     }
   ],
-  "version": "1.1.7",
+  "version": "1.1.8",
   "frameworks": "arduino",
   "platforms": "espressif32",
   "dependencies": [
     {
       "name": "IoTaaP Core",
-      "version": "^0.2.5"
+      "version": "^0.2.7"
     }
   ]
 }

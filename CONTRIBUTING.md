@@ -19,6 +19,12 @@ All code changes happen through pull requests.
 5. Push to the branch (`git push origin feature/spaceship`)
 6. Create a new Pull Request to the **dev** branch
 
+## After PR
+
+Your PR will be reviewed by us and it must pass various predefined tests, finally, your PR will be merged with our **dev** branch. Once
+in a while we merge **dev** and **master** branches and create a new release. We will handle version updating, final CHANGELOG, and similar
+procedures.
+
 ## Conventions
 
 Keep it consistent!

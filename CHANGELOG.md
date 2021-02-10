@@ -1,5 +1,17 @@
 # Change Log
 
+### Fixed
+
+## [1.1.8] - 2021-02-10
+ 
+### Added
+
+### Changed
+
+Updated CONTRIBUTING.md
+   
+### Fixed
+
 ## [1.1.7] - 2021-01-29
  
 ### Added
