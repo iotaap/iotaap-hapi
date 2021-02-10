@@ -1,4 +1,4 @@
-# IoTaaP HAPI - Hardware API Library
+# IoTaaP HAPI - DEPRECATED
 > Hardware to Cloud Application Programming Interface
 
 [![Build Status](https://jenkins.iotaap.io/buildStatus/icon?job=iotaap-hapi%2Fmaster)](https://jenkins.iotaap.io/job/iotaap-hapi/job/master/)
