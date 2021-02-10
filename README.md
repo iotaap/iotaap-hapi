@@ -16,9 +16,9 @@ Include `IoTaaP_HAPI.h` in your project.
 ## Usage example
 
 ```
-#include "IoTaaP_HAPI.h"
+#include <IoTaaP_HAPI.h>
 
-IoTaaP_HAPI iotaap_hapi;
+IoTaaP_HAPI hapi("1.0.0");
 ```
 
 ## Hardware
