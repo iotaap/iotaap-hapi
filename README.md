@@ -1,4 +1,4 @@
-# IoTaaP HAPI - Hardware API Library
+# IoTaaP HAPI - DEPRECATED
 > Hardware to Cloud Application Programming Interface
 
 [![Build Status](https://jenkins.iotaap.io/buildStatus/icon?job=iotaap-hapi%2Fmaster)](https://jenkins.iotaap.io/job/iotaap-hapi/job/master/)
@@ -16,9 +16,9 @@ Include `IoTaaP_HAPI.h` in your project.
 ## Usage example
 
 ```
-#include "IoTaaP_HAPI.h"
+#include <IoTaaP_HAPI.h>
 
-IoTaaP_HAPI iotaap_hapi;
+IoTaaP_HAPI hapi("1.0.0");
 ```
 
 ## Hardware
@@ -29,7 +29,7 @@ Use official [IoTaaP Hardware modules](https://www.iotaap.io/)
 
 ## Tutorials
 
-Follow [official tutorials](https://docs.iotaap.io/iotaap-tutorials/) for even faster IoT development process!
+Follow [official tutorials](https://docs.iotaap.io/docs-tutorials/) for even faster IoT development process!
 
 ## Documentation
 

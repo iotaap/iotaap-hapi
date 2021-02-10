@@ -13,11 +13,11 @@ Let's create together! We want to make contributing to this project as easy and 
 All code changes happen through pull requests.
 
 1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/spaceship`)
+2. Create your branch from **master** (`git checkout -b feature/spaceship`)
 3. Make your changes and test your code
 4. Commit your changes (`git commit -am 'Add spaceship feature'`)
 5. Push to the branch (`git push origin feature/spaceship`)
-6. Create a new Pull Request
+6. Create a new Pull Request to the **dev** branch
 
 ## Conventions
 
